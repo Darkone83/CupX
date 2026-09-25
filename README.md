@@ -47,7 +47,6 @@ Large portions of Cuphead are intentionally **not** present. Bosses, the world m
 ### Xbox
 
 - Original Microsoft Xbox capable of launching unsigned/homebrew XBE applications.
-- 128mb RAM upgrade.
 - The current technical demo is developed and tested primarily on a **128 MB upgraded Xbox**. A stock 64 MB Xbox is **not currently a supported target for this demo release**.
 
 ### PC — Demo Data Builder
