@@ -1,0 +1,25 @@
+; CupX demo screen text. Lines that start with a semicolon are comments.
+;
+;   # Heading      larger text in Cuphead gold
+;   plain line     body text, wrapped and centred
+;   (empty line)   paragraph gap
+;   @duration 15   seconds on screen, 5 to 120
+;
+; The font has A-Z, a-z, 0-9, space, and  ! ' , - . : ; ?
+; Straight and curly double quotes print as '. Other symbols print as a gap.
+; If the text is taller than the text area, it scrolls during the hold.
+
+@duration 25
+
+# CupX
+A Cuphead technical demo by Darkone83.
+
+# About the project
+An in-progress native RXDK build that runs Cuphead's own assets, repacked into CUPX volumes and streamed from the HDD. This demo covers the intro book, Elder Kettle's house, and the tutorial.
+
+# Sources
+Cuphead is copyright StudioMDHR Entertainment. All art, music, and characters belong to them.
+Runtime built with RXDK.
+
+# Thanks
+Team Resurgent and everyone testing on real hardware.
