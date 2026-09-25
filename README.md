@@ -1,5 +1,13 @@
 # CupX
 
+<div align=center>
+
+<img src="https://github.com/Darkone83/CupX/blob/main/img/title.png" width=350> <img src="https://github.com/Darkone83/CupX/blob/main/img/game.png" width=350>
+
+<img src="https://github.com/Darkone83/CupX/blob/main/img/Darkone83.png" width=400>
+
+</div>
+
 **CupX is an original Xbox technical proof of concept for reconstructing a small, native Cuphead gameplay path.**
 
 > [!IMPORTANT]
@@ -39,6 +47,7 @@ Large portions of Cuphead are intentionally **not** present. Bosses, the world m
 ### Xbox
 
 - Original Microsoft Xbox capable of launching unsigned/homebrew XBE applications.
+- 128mb RAM upgrade.
 - The current technical demo is developed and tested primarily on a **128 MB upgraded Xbox**. A stock 64 MB Xbox is **not currently a supported target for this demo release**.
 
 ### PC — Demo Data Builder
